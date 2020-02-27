@@ -99,7 +99,7 @@ section{
 }
 
 .images{
-    margin:0 14.5%;
+    margin:0 15%;
 }
 
 .images img{
@@ -111,7 +111,6 @@ section{
 .images .one-third{
     width: 30%;
     float: left;
-    margin: 0 15px;
 }
 
 .work{
